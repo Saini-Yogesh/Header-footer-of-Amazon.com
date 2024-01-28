@@ -1,1 +1,1 @@
-#header and footer of Amazon.com
+Header and footer of Amazon.com website
