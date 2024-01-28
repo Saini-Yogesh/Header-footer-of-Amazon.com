@@ -1,4 +1,1 @@
-# first-repository
-first git repository
-<br>
-Auther - yogesh saini(B.texh)
+#header and footer of Amazon.com
